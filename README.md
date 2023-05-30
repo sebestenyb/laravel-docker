@@ -6,7 +6,7 @@
 A generic docker environment for Laravel with mySql and Nginx
 
 
-## Insstallation
+## Installation
 
 1. Click [Use this template](https://github.com/rakibdevs/laravel-docker/generate)
 2. Clone the repository containing the `docker-compose.yml` file.
